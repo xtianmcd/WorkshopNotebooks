@@ -1,6 +1,6 @@
 # WorkshopNotebooks
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NiqAngel/WorkshopNotebooks/3f6d472f0a9dbf8531fd6123339305499efa64a6)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/xtianmcd/WorkshopNotebooks/master?filepath=DELUG%20Workshop%2FDELUG_Workshop.ipynb)
 
 ## What is this?
 
